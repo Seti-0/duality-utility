@@ -5,7 +5,7 @@ using System.Text;
 
 using Duality;
 
-namespace Duality_
+namespace Soulstone.Duality.Utility
 {
 	/// <summary>
 	/// Defines a Duality core plugin.
